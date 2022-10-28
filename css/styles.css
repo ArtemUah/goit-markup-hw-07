@@ -135,6 +135,7 @@ ol {
 .contacts__link {
   display: flex;
   align-items: center;
+  gap: 10px;
 
   font-weight: 500;
   font-size: 14px;
@@ -153,14 +154,12 @@ ol {
   width: 16px;
   height: 12px;
   fill: currentColor;
-  margin-right: 10px;
 }
 
 .contacts__svg-phone {
   width: 10px;
   height: 16px;
   fill: currentColor;
-  margin-right: 10px;
 }
 
 /* -----------------Hero-------------- */
